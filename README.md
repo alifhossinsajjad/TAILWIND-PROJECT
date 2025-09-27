@@ -5,8 +5,6 @@ The project demonstrates a modern **About Me Section** layout with responsive de
 
 ---
 
-## 📸 Preview
-![Preview Screenshot](./screenshot.png)
 
 ---
 
